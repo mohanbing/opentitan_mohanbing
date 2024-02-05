@@ -102,7 +102,7 @@ charset-normalizer==3.2.0 \
     --hash=sha256:f7560358a6811e52e9c4d142d497f1a6e10103d3a6881f18d04dbce3729c0e2c \
     --hash=sha256:f779d3ad205f108d14e99bb3859aa7dd8e9c68874617c72354d7ecaec2a054ac \
     --hash=sha256:f87f746ee241d30d6ed93969de31e5ffd09a2961a051e60ae6bddde9ec3583aa
-chipwhisperer @ https://github.com/newaetech/chipwhisperer-minimal/archive/2643131b71e528791446ee1bab7359120288f4ab.zip \
+chipwhisperer @ git+https://github.com/newaetech/chipwhisperer-minimal/archive/2643131b71e528791446ee1bab7359120288f4ab.zip \
     --hash=sha256:efe11002e895a82be0605679207e70dde23ae18fb840afbff2408abb4aeff059
 click==8.1.7 \
     --hash=sha256:ae74fb96c20a0277a1d615f1e4d73c8414f5a98db8b799a7931d1582f3390c28 \
@@ -178,7 +178,7 @@ cython==3.0.1 \
 distro==1.8.0 \
     --hash=sha256:02e111d1dc6a50abb8eed6bf31c3e48ed8b0830d1ea2a1b78c61765c2513fdd8 \
     --hash=sha256:99522ca3e365cac527b44bde033f64c6945d90eb9f769703caaec52b09bbd3ff
-edalize @ https://github.com/lowRISC/edalize/archive/refs/tags/v0.4.0.zip \
+edalize @ git+https://github.com/lowRISC/edalize/archive/refs/tags/v0.4.0.zip \
     --hash=sha256:da816ef1040d8063d4aa7377ef1fea33f0bffeca1f79a68b7a8930ef9d90c7c8
 enlighten==1.10.2 \
     --hash=sha256:7a5b83cd0f4d095e59d80c648ebb5f7ffca0cd8bcf7ae6639828ee1ad000632a \
@@ -186,7 +186,7 @@ enlighten==1.10.2 \
 flake8==5.0.4 \
     --hash=sha256:6fbe320aad8d6b95cec8b8e47bc933004678dc63095be98528b7bdd2a9f510db \
     --hash=sha256:7a1cf6b73744f5806ab95e526f6f0d8c01c66d7bbe349562d22dfca20610b248
-fusesoc @ https://github.com/lowRISC/fusesoc/archive/refs/tags/ot-0.5.zip \
+fusesoc @ git+https://github.com/lowRISC/fusesoc/archive/refs/tags/ot-0.5.zip \
     --hash=sha256:2b9e29adc09b61e00c8f6246274a937a0f13fe940f1362f12788a6246b3cc4c7
 gitdb==4.0.10 \
     --hash=sha256:6eb990b69df4e15bad899ea868dc46572c3f75339735663b81de79b06f17eb9a \
